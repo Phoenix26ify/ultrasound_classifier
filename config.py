@@ -1,0 +1,6 @@
+TRAIN_DIR = "data/train"
+VAL_DIR = "data/val"
+NUM_CLASSES = 2
+BATCH_SIZE = 16
+LEARNING_RATE = 1e-4
+NUM_EPOCHS = 10
