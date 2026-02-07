@@ -86,6 +86,9 @@ result = predict('path/to/ultrasound.jpg', model)
 
 print("Predicted class:", "Normal" if result == 0 else "Abnormal")
 
+To run the GUI use the below commands
+
+streamlit run app.py       
 
 Future Improvements
 
